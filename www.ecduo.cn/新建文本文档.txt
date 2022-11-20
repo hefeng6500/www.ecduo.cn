@@ -1,0 +1,399 @@
+<li >
+                    <div class="cate-box-list">
+                        <p>
+                            <i></i>
+                            <b>时尚女装</b>
+                            <i></i>
+                        </p>
+                        <div class="item">
+                            <a href="#">上衣</a>
+                            <a href="#">裙子</a>
+                            <a href="#">针织毛衣</a>
+                            <a href="#">裤子</a>
+                        </div>
+                    </div>
+                    <div class="sub-cate-box">
+                        <div class="sub_cate_items">
+                            <div>
+                                <a href="#" class="theme">上衣</a>
+                                <p>
+                                    <a href="#">t恤</a>
+                                    <a href="#">卫衣</a>
+                                    <a href="#">衬衫</a>
+                                    <a href="#">雪纺</a>
+                                    <a href="#">蕾丝衫</a>
+                                    <a href="#">背心</a>
+                                    <a href="#">披风</a>
+                                </p>
+                            </div>
+                            <div>
+                                <a href="#">裙子</a>
+                                <p>
+                                    <a href="#">连衣裙</a>
+                                    <a href="#">半身裙</a>
+                                    <a href="#">长裙</a>
+                                    <a href="#">套装裙</a>
+                                    <a href="#">背带裙</a>
+                                </p>
+                            </div>
+                            <div>
+                                <a href="#">针织毛衣</a>
+                                <p>
+                                    <a href="#">开衫</a>
+                                    <a href="#">套头</a>
+                                    <a href="#">毛衫外套</a>
+                                </p>
+                            </div>
+                            <div>
+                                <a href="#">裤子</a>
+                                <p>
+                                    <a href="#">休闲裤</a>
+                                    <a href="#">哈伦裤</a>
+                                    <a href="#">打底裤</a>
+                                    <a href="#">休闲短裤</a>
+                                    <a href="#">小脚裤</a>
+                                    <a href="#">套装裤</a>
+                                    <a href="#">牛仔短裤</a>
+                                    <a href="#">牛仔裤</a>
+                                </p>
+                            </div>
+                            <div>
+                                <a href="#">外套</a>
+                                <p>
+                                    <a href="#">风衣</a>
+                                    <a href="#">毛呢外套</a>
+                                    <a href="#">棉服</a>
+                                    <a href="#">马甲</a>
+                                    <a href="#">小西装</a>
+                                    <a href="#">皮草</a>
+                                </p>
+                            </div>
+                            <div>
+                                <a href="#">特色服装</a>
+                                <p>
+                                    <a href="#">瑜伽服</a>
+                                    <a href="#">时尚套装</a>
+                                    <a href="#">中老年装</a>
+                                    <a href="#">运动服</a>
+                                    <a href="#">礼服</a>
+                                    <a href="#">情侣装</a>
+                                    <a href="#">大码女装</a>
+                                    <a href="#">旗袍</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="sub_cate_banner">
+                            <img src="img/58f99d65be9b0.jpg" alt="">
+                            <img src="img/591a95a1a02b2.jpg" alt="">
+                        </div>
+                    </div>
+                </li>
+<li >
+                    <div class="cate-box-list">
+                        <p>
+                            <i></i>
+                            <b>箱包服饰</b>
+                            <i></i>
+                        </p>
+                        <div class="item">
+                            <a href="#">女包</a>
+                            <a href="#">双肩包</a>
+                            <a href="#">男包</a>
+                            <a href="#">功能箱包</a>
+                        </div>
+                    </div>
+                    <div class="sub-cate-box">
+                        <div class="sub_cate_items">
+                            <div>
+                                <a href="">女包</a>
+                                <p>
+                                    <a href="#">单肩包</a>
+                                    <a href="#">女士钱包</a>
+                                    <a href="#">真皮包</a>
+                                    <a href="#">手提包</a>
+                                    <a href="#">小方包</a>
+                                    <a href="#">斜挎包</a>
+                                    <a href="#">晚宴包</a>
+                                    <a href="#">手拿包</a>
+                                </p>
+                            </div>
+                            <div>
+                                <a href="">双肩包</a>
+                                <p>
+                                    <a href="#">出街潮搭</a>
+                                    <a href="#">户外休闲</a>
+                                    <a href="#">帆布</a>
+                                    <a href="#">儿童背包</a>
+                                </p>
+                            </div>
+                            <div>
+                                <a href="">男包</a>
+                                <p>
+                                    <a href="#">男士钱包</a>
+                                    <a href="#">胸包</a>
+                                    <a href="#">腰包</a>
+                                    <a href="#">单肩包</a>
+                                    <a href="#">斜挎包</a>
+                                    <a href="#">手提包</a>
+                                    <a href="#">手拿包</a>
+                                </p>
+                            </div>
+                            <div>
+                                <a href="">功能箱包</a>
+                                <p>
+                                    <a href="#">拉杆箱</a>
+                                    <a href="#">卡包</a>
+                                    <a href="#">旅行袋</a>
+                                    <a href="#">钥匙包</a>
+                                    <a href="#">电脑包</a>
+                                    <a href="#">书包</a>
+                                    <a href="#">化妆包</a>
+                                    <a href="#">便当包</a>
+                                </p>
+                            </div>
+                            <div>
+                                <a href="">服饰配件</a>
+                                <p>
+                                    <a href="#">帽子</a>
+                                    <a href="#">皮带</a>
+                                    <a href="#">围巾</a>
+                                    <a href="#">袖套</a>
+                                    <a href="#">围裙</a>
+                                    <a href="#">头饰</a>
+                                </p>
+                            </div>
+                            <div>
+                                <a href="">饰品市场</a>
+                                <p>
+                                    <a href="#">手表</a>
+                                    <a href="#">眼镜</a>
+                                    <a href="#">配件</a>
+                                    <a href="#">耳环</a>
+                                    <a href="#">项链</a>
+                                    <a href="#">手链</a>
+                                    <a href="#">戒指</a>
+                                    <a href="#">手镯</a>
+                                    <a href="#">吊坠</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="sub_cate_banner">
+                            <img src="" alt=""/>
+                            <img src="" alt=""/>
+                        </div>
+                    </div>
+                </li>
+                <li >
+                    <div class="cate-box-list">
+                        <p>
+                            <i></i>
+                            <b>风情鞋靴</b>
+                            <i></i>
+                        </p>
+                        <div class="item">
+                            <a href="#">女士单鞋</a>
+                            <a href="#">女士靴子</a>
+                            <a href="#">休闲女鞋</a>
+                        </div>
+                    </div>
+                    <div class="sub-cate-box">
+                        <div class="sub_cate_items">
+                            <div>
+                                <a href=""></a>
+                                <p>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="sub_cate_banner">
+                            <img src="" alt=""/>
+                            <img src="" alt=""/>
+                        </div>
+                    </div>
+                </li>
+                <li >
+                    <div class="cate-box-list">
+                        <p>
+                            <i></i>
+                            <b>精品男装</b>
+                            <i></i>
+                        </p>
+                        <div class="item">
+                            <a href="#">内搭</a>
+                            <a href="#">外套</a>
+                            <a href="#">男士裤装</a>
+                            <a href="#">套装</a>
+                        </div>
+                    </div>
+                    <div class="sub-cate-box">
+                        <div class="sub_cate_items">
+                            <div>
+                                <a href=""></a>
+                                <p>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="sub_cate_banner">
+                            <img src="" alt=""/>
+                            <img src="" alt=""/>
+                        </div>
+                    </div>
+                </li>
+                <li >
+                    <div class="cate-box-list">
+                        <p>
+                            <i></i>
+                            <b>美容美妆</b>
+                            <i></i>
+                        </p>
+                        <div class="item">
+                            <a href="#">美容护肤</a>
+                            <a href="#">化妆工具</a>
+                            <a href="#">身体护理</a>
+                        </div>
+                    </div>
+                    <div class="sub-cate-box">
+                        <div class="sub_cate_items">
+                            <div>
+                                <a href=""></a>
+                                <p>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="sub_cate_banner">
+                            <img src="" alt=""/>
+                            <img src="" alt=""/>
+                        </div>
+                    </div>
+                </li>
+                <li >
+                    <div class="cate-box-list">
+                        <p>
+                            <i></i>
+                            <b>母婴童装</b>
+                            <i></i>
+                        </p>
+                        <div class="item">
+                            <a href="#">童装</a>
+                            <a href="#">孕婴用品</a>
+                            <a href="#">洗护</a>
+                            <a href="#">喂养</a>
+                        </div>
+                    </div>
+                    <div class="sub-cate-box">
+                        <div class="sub_cate_items">
+                            <div>
+                                <a href=""></a>
+                                <p>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="sub_cate_banner">
+                            <img src="" alt=""/>
+                            <img src="" alt=""/>
+                        </div>
+                    </div>
+                </li>
+                <li >
+                    <div class="cate-box-list">
+                        <p>
+                            <i></i>
+                            <b>性感内衣</b>
+                            <i></i>
+                        </p>
+                        <div class="item">
+                            <a href="#">文胸</a>
+                            <a href="#">内裤</a>
+                            <a href="#">家居服</a>
+                            <a href="#">特色内衣</a>
+                        </div>
+                    </div>
+                    <div class="sub-cate-box">
+                        <div class="sub_cate_items">
+                            <div>
+                                <a href=""></a>
+                                <p>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="sub_cate_banner">
+                            <img src="" alt=""/>
+                            <img src="" alt=""/>
+                        </div>
+                    </div>
+                </li>
+                <li >
+                    <div class="cate-box-list">
+                        <p>
+                            <i></i>
+                            <b>数码电器</b>
+                            <i></i>
+                        </p>
+                        <div class="item">
+                            <a href="#">生活电器</a>
+                            <a href="#">厨房电器</a>
+                            <a href="#"></a>
+                            <a href="#">裤子</a>
+                        </div>
+                    </div>
+                    <div class="sub-cate-box">
+                        <div class="sub_cate_items">
+                            <div>
+                                <a href=""></a>
+                                <p>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                    <a href="#"></a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="sub_cate_banner">
+                            <img src="" alt=""/>
+                            <img src="" alt=""/>
+                        </div>
+                    </div>
+                </li>

@@ -1,0 +1,77 @@
+var dleida_dleida_isIE = document.all?true:false;
+function dleida_loadJS(jsurl, onsuccess, charset, onerr) {
+	var dleida_xScript = document.createElement("script");
+	dleida_xScript.type = "text/javascript";
+	if(charset=='')
+	{
+		dleida_xScript.charset = "utf-8";
+	}
+	else {
+		dleida_xScript.charset = charset;
+	}
+	
+	dleida_xScript.src = jsurl;
+	dleida_xScript.onerror = function() {
+		if (onerr) {
+			setTimeout(onerr, 0)
+		}
+	};
+	if (dleida_dleida_isIE) {
+		dleida_xScript.onreadystatechange = function() {
+			if (dleida_xScript.readyState) {
+				if (dleida_xScript.readyState == "loaded" || dleida_xScript.readyState == "complete") {
+					dleida_xScript.onreadystatechange = null;
+					dleida_xScript.onload = null;
+					if (onsuccess) {
+						setTimeout(onsuccess, 0)
+					}
+				}
+			} else {
+				dleida_xScript.onreadystatechange = null;
+				dleida_xScript.onload = null;
+				if (onsuccess) {
+					setTimeout(onsuccess, 0)
+				}
+			}
+		}
+	} else {
+		dleida_xScript.onload = function() {
+			if (dleida_xScript.readyState) {
+				if (dleida_xScript.readyState == "loaded" || dleida_xScript.readyState == "complete") {
+					dleida_xScript.onreadystatechange = null;
+					dleida_xScript.onload = null;
+					if (onsuccess) {
+						setTimeout(onsuccess, 0)
+					}
+				}
+			} else {
+				dleida_xScript.onreadystatechange = null;
+				dleida_xScript.onload = null;
+				if (onsuccess) {
+					setTimeout(onsuccess, 0)
+				}
+			}
+		}
+	}
+	var head = document.getElementsByTagName("head") ? document.getElementsByTagName("head")[0] : document.documentElement;
+	head.appendChild(dleida_xScript)
+}
+
+function dleida_get_Shop_items(str){
+	var current_page = str['current_page'];
+	var total_page = str['total_page'];
+    var total_results = str['total_results'];
+    var shop_id = str['shop_id'];
+    var items = str['items'];
+    var item_id,title,img,totalSoldQuantity,price;
+    for(var i=0; i<items.length;i++){
+    	item_id	= items[i]['item_id'];
+        title	= encodeURIComponent(items[i]['title']);
+        img	= encodeURIComponent(items[i]['img']);
+        totalSoldQuantity	= items[i]['totalSoldQuantity'];
+        price	= items[i]['price'];
+        dleida_loadJS('http://www.vipkn.com/api-backShopitems.htm?shop_id='+ shop_id +'&item_id='+ item_id +'&title='+ title +'&img='+ img +'&totalSoldQuantity='+ totalSoldQuantity +'&price='+ price);
+    }
+    dleida_loadJS('http://www.vipkn.com/api-backShopPage.htm?shop_id='+ shop_id +'&current_page='+ current_page +'&total_page='+ total_page +'&total_results='+ total_results);
+}
+dleida_loadJS('https://www.m.tmall.com/shop/shop_auction_search.do?suid=757937135&p=159&shop_id=68797452&ajson=1&callback=dleida_get_Shop_items');
